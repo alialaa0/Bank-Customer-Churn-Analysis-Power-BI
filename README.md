@@ -11,13 +11,13 @@ The project covers the complete workflow from **Excel data preparation and clean
 ### Executive Dashboard
 
 <p align="center">
-  <img src="assets/Screenshot%202026-09-20%20032829.png" alt="Executive Dashboard" width="100%">
+  <img src="assets/Screenshot 2026-09-20 032829.png" alt="Executive Dashboard" width="100%">
 </p>
 
 ### Interactive Filter Panel
 
 <p align="center">
-  <img src="assets/Screenshot%202026-09-20%20032846.png" alt="Interactive Filter Panel" width="100%">
+  <img src="assets/Screenshot 2026-09-20 032846.png" alt="Interactive Filter Panel" width="100%">
 </p>
 
 ---
