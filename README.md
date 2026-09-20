@@ -1,4 +1,4 @@
-# 🏦 Bank Customer Churn Analysis — Power BI
+# 🏦 Bank Customer Churn Analysis — Power BI 
 
 An interactive **Power BI Executive Dashboard** built to analyze customer churn, customer segments, and financial impact across different regions.
 
